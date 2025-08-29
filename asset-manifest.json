@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/esdla/static/css/main.f855e6bc.css",
-    "main.js": "/esdla/static/js/main.4848e73f.js",
+    "main.css": "/esdla/static/css/main.69ae86ea.css",
+    "main.js": "/esdla/static/js/main.2705a91e.js",
     "static/js/453.cd6067c7.chunk.js": "/esdla/static/js/453.cd6067c7.chunk.js",
-    "static/media/logo.svg": "/esdla/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/RingbearerMedium-51mgZ.ttf": "/esdla/static/media/RingbearerMedium-51mgZ.81688da96bd2ba917e09.ttf",
+    "static/media/door_r.jpg": "/esdla/static/media/door_r.f32011771bd68cff93c5.jpg",
     "index.html": "/esdla/index.html",
-    "main.f855e6bc.css.map": "/esdla/static/css/main.f855e6bc.css.map",
-    "main.4848e73f.js.map": "/esdla/static/js/main.4848e73f.js.map",
+    "main.69ae86ea.css.map": "/esdla/static/css/main.69ae86ea.css.map",
+    "main.2705a91e.js.map": "/esdla/static/js/main.2705a91e.js.map",
     "453.cd6067c7.chunk.js.map": "/esdla/static/js/453.cd6067c7.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.4848e73f.js"
+    "static/css/main.69ae86ea.css",
+    "static/js/main.2705a91e.js"
   ]
 }
